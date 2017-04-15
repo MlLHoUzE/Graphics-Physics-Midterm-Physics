@@ -1,0 +1,22 @@
+
+Camera				-240.	5	0
+
+FileName			bIsWireframe	bIsUpdated	x	y	z	postX	postY	postZ	Scale	radius	R	G	B
+Begin
+
+Environment
+Trench_High_N.ply		0		0		0	0	0	0	0	0	500		0.2	0.2	0.2
+endOfEnvironment
+
+
+				scale 	radius	x	y	z	r	g	b
+yWing
+Y-Wing_High_N.ply		10	5	-480	20	-420	1.1	0.1	0.1
+
+fileName			number to create	scale	r	g	b	random location	generated	
+Turrets				
+Turret_High_N.ply		100			10	1.0	0.1	0.1	
+
+
+
+eof
